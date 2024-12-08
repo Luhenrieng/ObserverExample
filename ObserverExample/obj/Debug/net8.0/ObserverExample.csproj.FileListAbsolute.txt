@@ -1,0 +1,14 @@
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\bin\Debug\net8.0\ObserverExample.exe
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\bin\Debug\net8.0\ObserverExample.deps.json
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\bin\Debug\net8.0\ObserverExample.runtimeconfig.json
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\bin\Debug\net8.0\ObserverExample.dll
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\bin\Debug\net8.0\ObserverExample.pdb
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\obj\Debug\net8.0\ObserverExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\obj\Debug\net8.0\ObserverExample.AssemblyInfoInputs.cache
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\obj\Debug\net8.0\ObserverExample.AssemblyInfo.cs
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\obj\Debug\net8.0\ObserverExample.csproj.CoreCompileInputs.cache
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\obj\Debug\net8.0\ObserverExample.dll
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\obj\Debug\net8.0\refint\ObserverExample.dll
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\obj\Debug\net8.0\ObserverExample.pdb
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\obj\Debug\net8.0\ObserverExample.genruntimeconfig.cache
+C:\Users\USER\Projetos\ObserverExample\ObserverExample\obj\Debug\net8.0\ref\ObserverExample.dll

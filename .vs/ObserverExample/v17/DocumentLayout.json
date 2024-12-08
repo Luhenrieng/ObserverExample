@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Projetos\\ObserverExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F6A35E-7CAC-4333-897E-C78E6AB87B94}|ObserverExample\\ObserverExample.csproj|c:\\users\\user\\projetos\\observerexample\\observerexample\\controllers\\controladoremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F6A35E-7CAC-4333-897E-C78E6AB87B94}|ObserverExample\\ObserverExample.csproj|solutionrelative:observerexample\\controllers\\controladoremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F6A35E-7CAC-4333-897E-C78E6AB87B94}|ObserverExample\\ObserverExample.csproj|c:\\users\\user\\projetos\\observerexample\\observerexample\\models\\usuarioa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F6A35E-7CAC-4333-897E-C78E6AB87B94}|ObserverExample\\ObserverExample.csproj|solutionrelative:observerexample\\models\\usuarioa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F6A35E-7CAC-4333-897E-C78E6AB87B94}|ObserverExample\\ObserverExample.csproj|c:\\users\\user\\projetos\\observerexample\\observerexample\\controllers\\disposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F6A35E-7CAC-4333-897E-C78E6AB87B94}|ObserverExample\\ObserverExample.csproj|solutionrelative:observerexample\\controllers\\disposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F6A35E-7CAC-4333-897E-C78E6AB87B94}|ObserverExample\\ObserverExample.csproj|c:\\users\\user\\projetos\\observerexample\\observerexample\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F6A35E-7CAC-4333-897E-C78E6AB87B94}|ObserverExample\\ObserverExample.csproj|solutionrelative:observerexample\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F6A35E-7CAC-4333-897E-C78E6AB87B94}|ObserverExample\\ObserverExample.csproj|c:\\users\\user\\projetos\\observerexample\\observerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F6A35E-7CAC-4333-897E-C78E6AB87B94}|ObserverExample\\ObserverExample.csproj|solutionrelative:observerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F6A35E-7CAC-4333-897E-C78E6AB87B94}|ObserverExample\\ObserverExample.csproj|c:\\users\\user\\projetos\\observerexample\\observerexample\\observerexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81F6A35E-7CAC-4333-897E-C78E6AB87B94}|ObserverExample\\ObserverExample.csproj|solutionrelative:observerexample\\observerexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioA.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Projetos\\ObserverExample\\ObserverExample\\Models\\UsuarioA.cs",
+              "RelativeDocumentMoniker": "ObserverExample\\Models\\UsuarioA.cs",
+              "ToolTip": "C:\\Users\\USER\\Projetos\\ObserverExample\\ObserverExample\\Models\\UsuarioA.cs",
+              "RelativeToolTip": "ObserverExample\\Models\\UsuarioA.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:24:21.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Disposer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Projetos\\ObserverExample\\ObserverExample\\Controllers\\Disposer.cs",
+              "RelativeDocumentMoniker": "ObserverExample\\Controllers\\Disposer.cs",
+              "ToolTip": "C:\\Users\\USER\\Projetos\\ObserverExample\\ObserverExample\\Controllers\\Disposer.cs",
+              "RelativeToolTip": "ObserverExample\\Controllers\\Disposer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:13:00.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControladorEmail.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Projetos\\ObserverExample\\ObserverExample\\Controllers\\ControladorEmail.cs",
+              "RelativeDocumentMoniker": "ObserverExample\\Controllers\\ControladorEmail.cs",
+              "ToolTip": "C:\\Users\\USER\\Projetos\\ObserverExample\\ObserverExample\\Controllers\\ControladorEmail.cs",
+              "RelativeToolTip": "ObserverExample\\Controllers\\ControladorEmail.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:04:22.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Projetos\\ObserverExample\\ObserverExample\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "ObserverExample\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\USER\\Projetos\\ObserverExample\\ObserverExample\\Models\\Email.cs",
+              "RelativeToolTip": "ObserverExample\\Models\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:02:22.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObserverExample.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Projetos\\ObserverExample\\ObserverExample\\ObserverExample.csproj",
+              "RelativeDocumentMoniker": "ObserverExample\\ObserverExample.csproj",
+              "ToolTip": "C:\\Users\\USER\\Projetos\\ObserverExample\\ObserverExample\\ObserverExample.csproj",
+              "RelativeToolTip": "ObserverExample\\ObserverExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T13:00:46.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Projetos\\ObserverExample\\ObserverExample\\Program.cs",
+              "RelativeDocumentMoniker": "ObserverExample\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Projetos\\ObserverExample\\ObserverExample\\Program.cs",
+              "RelativeToolTip": "ObserverExample\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:56:30.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
